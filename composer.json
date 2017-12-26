@@ -1,0 +1,14 @@
+{
+    "name": "alxmedeiros/laravel-acl",
+    "description": "A Laravel ACL implementation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexandre Medeiros",
+            "email": "alxmedeiros@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    }
+}
