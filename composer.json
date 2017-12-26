@@ -2,6 +2,7 @@
     "name": "alxmedeiros/laravel-acl",
     "description": "A Laravel ACL implementation",
     "keywords": ["laravel", "acl", "control"],
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +12,7 @@
         }
     ],
     "support": {
-        "email": "alxmedeiros@gmail.com",
+	        "email": "alxmedeiros@gmail.com",
         "issues":"https://github.com/alxmedeiros/laravel-acl/issues",
         "wiki":"https://github.com/alxmedeiros/laravel-acl",
         "source":"https://github.com/alxmedeiros/laravel-acl"
