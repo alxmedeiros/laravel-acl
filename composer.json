@@ -1,14 +1,28 @@
 {
     "name": "alxmedeiros/laravel-acl",
     "description": "A Laravel ACL implementation",
-    "type": "library",
+    "keywords": ["laravel", "acl", "control"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Alexandre Medeiros",
-            "email": "alxmedeiros@gmail.com"
+            "email": "alxmedeiros@gmail.com",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "support": {
+        "email": "alxmedeiros@gmail.com",
+        "issues":"https://github.com/alxmedeiros/laravel-acl/issues",
+        "wiki":"https://github.com/alxmedeiros/laravel-acl",
+        "source":"https://github.com/alxmedeiros/laravel-acl"
+    },
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alxmedeiros\\LaravelAcl\\": "src"
+        }
     }
 }
